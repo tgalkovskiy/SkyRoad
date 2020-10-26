@@ -71,58 +71,58 @@
      <None Include="Assets\Hovl Studio\Procedural fire\Shaders\FireSphere.shader" />
      <None Include="Assets\Models\Planet\PlanetLow.shader" />
  <Reference Include="Unity.Timeline.Editor">
- <HintPath>/Users/timurg/playtikaunityacademy/TestSkyroad/SkyRoad/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+ <HintPath>/Users/timurg/Desktop/SkyRoad/SkyRoad/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
  <Reference Include="com.unity.multiplayer-hlapi.Editor">
- <HintPath>/Users/timurg/playtikaunityacademy/TestSkyroad/SkyRoad/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Editor.dll</HintPath>
+ <HintPath>/Users/timurg/Desktop/SkyRoad/SkyRoad/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VSCode.Editor">
- <HintPath>/Users/timurg/playtikaunityacademy/TestSkyroad/SkyRoad/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+ <HintPath>/Users/timurg/Desktop/SkyRoad/SkyRoad/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>/Users/timurg/playtikaunityacademy/TestSkyroad/SkyRoad/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>/Users/timurg/Desktop/SkyRoad/SkyRoad/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
- <HintPath>/Users/timurg/playtikaunityacademy/TestSkyroad/SkyRoad/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+ <HintPath>/Users/timurg/Desktop/SkyRoad/SkyRoad/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline">
- <HintPath>/Users/timurg/playtikaunityacademy/TestSkyroad/SkyRoad/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+ <HintPath>/Users/timurg/Desktop/SkyRoad/SkyRoad/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
  </Reference>
  <Reference Include="Unity.CollabProxy.Editor">
- <HintPath>/Users/timurg/playtikaunityacademy/TestSkyroad/SkyRoad/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+ <HintPath>/Users/timurg/Desktop/SkyRoad/SkyRoad/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
  </Reference>
  <Reference Include="com.unity.multiplayer-weaver.Editor">
- <HintPath>/Users/timurg/playtikaunityacademy/TestSkyroad/SkyRoad/Library/ScriptAssemblies/com.unity.multiplayer-weaver.Editor.dll</HintPath>
+ <HintPath>/Users/timurg/Desktop/SkyRoad/SkyRoad/Library/ScriptAssemblies/com.unity.multiplayer-weaver.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.XR.LegacyInputHelpers">
- <HintPath>/Users/timurg/playtikaunityacademy/TestSkyroad/SkyRoad/Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
+ <HintPath>/Users/timurg/Desktop/SkyRoad/SkyRoad/Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Rider.Editor">
- <HintPath>/Users/timurg/playtikaunityacademy/TestSkyroad/SkyRoad/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+ <HintPath>/Users/timurg/Desktop/SkyRoad/SkyRoad/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Sprite.Editor">
- <HintPath>/Users/timurg/playtikaunityacademy/TestSkyroad/SkyRoad/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
+ <HintPath>/Users/timurg/Desktop/SkyRoad/SkyRoad/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Tilemap.Editor">
- <HintPath>/Users/timurg/playtikaunityacademy/TestSkyroad/SkyRoad/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
+ <HintPath>/Users/timurg/Desktop/SkyRoad/SkyRoad/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.SpatialTracking">
- <HintPath>/Users/timurg/playtikaunityacademy/TestSkyroad/SkyRoad/Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll</HintPath>
+ <HintPath>/Users/timurg/Desktop/SkyRoad/SkyRoad/Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.SpatialTracking">
- <HintPath>/Users/timurg/playtikaunityacademy/TestSkyroad/SkyRoad/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll</HintPath>
+ <HintPath>/Users/timurg/Desktop/SkyRoad/SkyRoad/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>/Users/timurg/playtikaunityacademy/TestSkyroad/SkyRoad/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>/Users/timurg/Desktop/SkyRoad/SkyRoad/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.XR.LegacyInputHelpers">
- <HintPath>/Users/timurg/playtikaunityacademy/TestSkyroad/SkyRoad/Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
+ <HintPath>/Users/timurg/Desktop/SkyRoad/SkyRoad/Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.UI">
- <HintPath>/Users/timurg/playtikaunityacademy/TestSkyroad/SkyRoad/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+ <HintPath>/Users/timurg/Desktop/SkyRoad/SkyRoad/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
  </Reference>
  <Reference Include="com.unity.multiplayer-hlapi.Runtime">
- <HintPath>/Users/timurg/playtikaunityacademy/TestSkyroad/SkyRoad/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Runtime.dll</HintPath>
+ <HintPath>/Users/timurg/Desktop/SkyRoad/SkyRoad/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>/Applications/Unity/Hub/Editor/2019.4.12f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>

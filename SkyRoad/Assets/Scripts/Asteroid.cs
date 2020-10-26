@@ -21,6 +21,7 @@ public class Asteroid : MonoBehaviour
         if(other.tag == "Shot")
         {
             //Sound collision
+            //AudioSource.PlayClipAtPoint(AudioClips[0], transform.position, 1f);
             AudioSource.PlayOneShot(AudioClips[0]);
             //Spawn Explosion
             Explos = Instantiate(Resources.Load<GameObject>("Prefabs/Explosion"));
