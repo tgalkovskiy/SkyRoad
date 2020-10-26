@@ -130,16 +130,19 @@ public class MoveShip : MonoBehaviour
             Animator.SetBool("2xSpeed", false);
         }
         //Shot Blast
-        if (Input.GetKeyDown(KeyCode.Mouse0) && Cooldown <= 0)
+        if (!GameOver)
         {
-            //Shot Sound
-            AudioSource.PlayOneShot(AudioClips[4]);
-            //Shot Spawn
-            Shot = Instantiate(Resources.Load<GameObject>("Prefabs/Shot"));
-            //Shot transform
-            Shot.transform.position = new Vector3(transform.position.x, transform.position.y, transform.position.z + 3);
-            //Cooldown shot
-            Cooldown = 2;
+          if (Input.GetKeyDown(KeyCode.Mouse0) && Cooldown <= 0)
+                  {
+                      //Shot Sound
+                      AudioSource.PlayOneShot(AudioClips[4]);
+                      //Shot Spawn
+                      Shot = Instantiate(Resources.Load<GameObject>("Prefabs/Shot"));
+                      //Shot transform
+                      Shot.transform.position = new Vector3(transform.position.x, transform.position.y, transform.position.z + 3);
+                      //Cooldown shot
+                      Cooldown = 2;
+                  }  
         }
         //Exit Game
         if (Input.GetKeyDown(KeyCode.Escape))
