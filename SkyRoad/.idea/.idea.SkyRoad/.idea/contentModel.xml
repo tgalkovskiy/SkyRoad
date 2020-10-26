@@ -19,6 +19,7 @@
           </e>
         </e>
         <e p="Scripts" t="Include">
+          <e p="AssetAudio.cs" t="Include" />
           <e p="Asteroid.cs" t="Include" />
           <e p="GenerateLvl.cs" t="Include" />
           <e p="Menu.cs" t="Include" />
